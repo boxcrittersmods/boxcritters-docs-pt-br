@@ -1,4 +1,4 @@
-# Mundo
+# World
 A sessão atual aonde o jogador e a sala estão.
 
 Paramêtro|Tipo
