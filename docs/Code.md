@@ -1,4 +1,4 @@
-# Código
+# Code
 ## Propriedades
 ## Métodos
 ### .sendCode(t)
