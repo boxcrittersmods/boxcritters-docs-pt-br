@@ -24,6 +24,6 @@
   "devDependencies": {},
   "dependencies": {
     "bcmc-jsdoc": "github:boxcritters/jsdoc-template",
-    "jsdoc": "^3.6.3"
+    "jsdoc": "^3.6.11"
   }
 }
